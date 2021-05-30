@@ -192,3 +192,13 @@ div.footer {
     -webkit-transform: scale(1);
             transform: scale(1);
     opacity: 1; } }
+
+
+.icons-bar {
+    width: 100%;
+    overflow: auto;
+    margin: 20px 0 0 40px;
+}
+.icons {
+    padding: 5px;
+}
